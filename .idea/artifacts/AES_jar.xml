@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="AES:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AES_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AES.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="AES" />
+      </element>
+    </root>
+  </artifact>
+</component>
